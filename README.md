@@ -1,20 +1,81 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 🛡️ GraTech Sovereign
+
+### النظام السيادي للذكاء الاصطناعي
+
+[![Sovereign](https://img.shields.io/badge/🛡️_سيادي-100%25-green?style=for-the-badge)](/)
+[![AI](https://img.shields.io/badge/🤖_ذكاء-اصطناعي-blue?style=for-the-badge)](/)
+[![Saudi](https://img.shields.io/badge/🇸🇦_سعودي-Vision_2030-purple?style=for-the-badge)](/)
+
+**ذكاء اصطناعي مستقل - بياناتك تبقى عندك**
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🎯 ما هو GraTech Sovereign؟
 
-View your app in AI Studio: https://ai.studio/apps/drive/1sooF_HjaRufB2HnnVkix-DTYvaq3eMqJ
+نظام AI **سيادي بالكامل** يعني:
 
-## Run Locally
+- 🔒 **بياناتك محلية** - لا ترسل لأي سيرفر خارجي
+- 🛡️ **تحكم كامل** - أنت المالك الوحيد
+- 🇸🇦 **سعودي** - مبني للسوق السعودي والعربي
+- ⚡ **سريع** - يعمل على جهازك مباشرة
 
-**Prerequisites:**  Node.js
+---
 
+## ✨ المميزات
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+| الميزة | الوصف |
+|--------|-------|
+| 🧠 **AI محلي** | نماذج تعمل بدون انترنت |
+| 🔐 **خصوصية** | تشفير كامل |
+| 🌐 **عربي** | دعم كامل للعربية |
+| 📱 **متعدد** | ويب + ديسكتوب + موبايل |
+
+---
+
+## 🚀 التشغيل
+
+```bash
+# 1. حمّل المشروع
+git clone https://github.com/gratechx/gratech-sovereign.git
+
+# 2. ثبّت المتطلبات
+npm install
+
+# 3. أضف مفتاح Gemini في .env.local
+GEMINI_API_KEY=your_key_here
+
+# 4. شغّل
+npm run dev
+```
+
+---
+
+## 🏗️ جزء من منظومة GraTech
+
+| المشروع | الوصف |
+|---------|-------|
+| [☄️ CometX](https://github.com/gratechx/cometx) | منصة AI العربية |
+| [🧠 AI Nexus](https://github.com/gratechx/gratech-ai-nexus) | مركز الذكاء |
+| [🛡️ Sovereign](https://github.com/gratechx/gratech-sovereign) | النظام السيادي |
+
+---
+
+## 📄 الرخصة
+
+Proprietary - GraTech Platform
+
+---
+
+<div align="center">
+
+**صُنع بـ 💙 في السعودية 🇸🇦**
+
+**Vision 2030 | السيادة الرقمية**
+
+[GraTech](https://github.com/gratechx) © 2025
+
+</div>
