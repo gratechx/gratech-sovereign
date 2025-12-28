@@ -1,0 +1,9 @@
+{
+  "name": "GraTech Sovereign",
+  "description": "GraTech Sovereign - Autonomous Neural Architecture. Powered by DeepSeek Logic and proprietary localized models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
